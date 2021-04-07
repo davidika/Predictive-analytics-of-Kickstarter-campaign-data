@@ -1,1 +1,1 @@
-# Predictive-analytics-of-Kickstarter-campaign-data
+# Predicting Kickstarter campaign success
